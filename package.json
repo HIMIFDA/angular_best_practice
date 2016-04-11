@@ -1,21 +1,21 @@
 {
-  "name": "patungan_admin_dev",
+  "name": "Angular Best Practice",
   "version": "1.0.0",
-  "description": "Patungan Admin Application",
+  "description": "SPA with AngularJS",
   "main": "app.js",
   "scripts": {
     "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://bitbucket.org/iridiumfrontend/patungan_admin_dev.git"
+    "url": "https://github.com/opam22/angular_best_practice"
   },
   "keywords": [
-    "Patungan"
+    "Angular"
   ],
-  "author": "IRIDIUM",
-  "license": "ISC",
-  "homepage": "https://bitbucket.org/iridiumfrontend/patungan_admin_dev#readme",
+  "author": "Pramesti Hatta K.",
+  "license": "MIT",
+  "homepage": "https://github.com/opam22/angular_best_practice",
   "devDependencies": {
     "browserify": "^13.0.0",
     "gulp": "^3.9.1",
